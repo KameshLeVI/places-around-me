@@ -248,7 +248,6 @@ food
 
 ## Output:
 ![image](https://github.com/KameshLeVI/places-around-me/assets/120780633/fdcb7ded-70c9-4000-aefa-7a4c3781989a)
-![Uploading Screenshot 2023-06-08 003830.png…]()
 ![Screenshot 2023-06-08 003335](https://github.com/KameshLeVI/places-around-me/assets/120780633/f2c51c54-13c8-45d8-b43f-d380caa0621c)
 ![Screenshot 2023-06-08 003351](https://github.com/KameshLeVI/places-around-me/assets/120780633/321ca6aa-3f93-4823-90e0-2685d9c3f997)
 ![Screenshot 2023-06-08 003405](https://github.com/KameshLeVI/places-around-me/assets/120780633/b7142ce2-22e6-4fa7-812e-aee6349646c8)
